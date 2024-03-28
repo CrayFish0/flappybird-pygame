@@ -4,8 +4,8 @@ This is a simple FlappyBird knockoff game created using Pygame, a popular Python
 
 ## Screenshots
 
-![Start](Assets\Screenshots\Start.png)
-![Death](Assets\Screenshots\Death.png)
+![Start](Assets/Screenshots/Start.png)
+![Death](Assets/Screenshots/Death.png)
 
 
 ## Requirements
