@@ -4,9 +4,11 @@ This is a simple FlappyBird knockoff game created using Pygame, a popular Python
 
 ## Screenshots
 
-![Start](Assets/Screenshots/Start.png)
-![Death](Assets/Screenshots/Death.png)
-
+<p align="center">
+  <img src="Assets/Screenshots/Start.png" alt="Start"/>
+</p><p align="center">
+  <img src="Assets/Screenshots/Death.png" alt="Death"/>
+</p>
 
 ## Requirements
 - Python 3.x
