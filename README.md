@@ -51,7 +51,7 @@ Same as windows.
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
 
 ## Acknowledgments
-This project was inspired by the classic game Flappy Bird developed by Dong Nguyen. Special thanks to the Pygame community for their excellent resources and tutorials.
+This project was inspired by the classic game Flappy Bird developed by Dong Nguyen. Special thanks to the Pygame community for their excellent resources and tutorials
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
