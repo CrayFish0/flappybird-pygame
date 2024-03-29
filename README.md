@@ -52,3 +52,6 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 ## Acknowledgments
 This project was inspired by the classic game Flappy Bird developed by Dong Nguyen. Special thanks to the Pygame community for their excellent resources and tutorials.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
