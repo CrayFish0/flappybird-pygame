@@ -16,13 +16,20 @@ This is a simple FlappyBird knockoff game created using Pygame, a popular Python
 
 ## Installation
 1. Clone or download this repository to your local machine.
-2. Grab the latest release of Python from [here](https://www.python.org/downloads/) **and** install Pygame by executing ``pip install pygame``.
+2. Grab the latest release of Python from [here](https://www.python.org/downloads/) **and** install Pygame by executing 
+```bash 
+pip install pygame
+```
 
 **Note:** If the ``pip install pygame`` did not work for you, then try this:
 1. Windows:
-``python -m pip install pygame``
+```bash
+python -m pip install pygame
+```
 2. Mac: 
-``python3 -m pip install pygame``
+```bash
+python3 -m pip install pygame
+```
 3. Linux:
 Same as windows.
 
