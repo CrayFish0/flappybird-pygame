@@ -185,7 +185,6 @@ def restart():
     run=True
     ch=0
     jump_c=0
-    score=0
     rest_y=300
     rest_offset=-1
     rest_flag=False
@@ -250,6 +249,7 @@ def restart():
             #spawn(2500)
         pygame.time.wait(8)
         pygame.display.update()
+    score=0
     if ch==2:
         return True
     else:
